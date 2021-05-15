@@ -13,7 +13,7 @@
 - 🏫 He is a Sophomore pursuing a Bachelor’s degree in Computer Science from the Lovely Professional University.
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs, and a little bit about data analysis.
 - 🔭 He is currently working with Multiple Projects.
-- ♥️ He is an problem solver and that's why he regularly compet in alorithmic challenges over various sites.
+- ♥️ He is an problem solver and that's why he regularly compete in alorithmic challenges over various sites.
   > 🐱‍💻 Not very active in Open Source, but if he get time or feeling, I do :)
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-1626-orange)](https://leetcode.com/cesur_/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/cezur)](https://www.codechef.com/users/cezur)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/cesur)](https://codeforces.com/profile/cesur)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-831-brightgreen)](https://auth.geeksforgeeks.org/user/cesur/practice/)
