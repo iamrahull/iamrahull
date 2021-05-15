@@ -10,7 +10,7 @@
 
 #### 🤔 Who Is Rahul Kumar ?
 
-- 🏫 He is a Sophomore pursuing a Bachelor’s degree in Computer Sciences from the Lovely Professional University.
+- 🏫 He is a Sophomore pursuing a Bachelor’s degree in Computer Science from the Lovely Professional University.
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs, and a little bit about data analysis.
 - 🔭 He is currently working with Multiple Projects.
 - ♥️ He is an problem solver and that's why he regularly compet in alorithmic challenges over various sites.
