@@ -16,7 +16,7 @@
 - ♥️ He is an Problem Solver and that's why he regularly compete in Algorithmic Challenges over various sites.
   > 🐱‍💻 Not very active in Open Source, but if he get time or feeling, I do :)
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-1626-orange)](https://leetcode.com/cesur_/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/cezur)](https://www.codechef.com/users/cezur)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/cesur)](https://codeforces.com/profile/cesur)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-831-brightgreen)](https://auth.geeksforgeeks.org/user/cesur/practice/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-1626-orange)](https://leetcode.com/cesur_/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/cezur)](https://www.codechef.com/users/cezur)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/cesur)](https://codeforces.com/profile/cesur)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1668-brightgreen)](https://auth.geeksforgeeks.org/user/cesur/practice/)
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
